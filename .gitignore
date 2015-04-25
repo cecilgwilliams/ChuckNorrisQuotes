@@ -1,0 +1,12 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ChuckNorris/ChuckNorris.userprefs
+/ChuckNorris/obj/Debug
+/packages
+/ChuckNorris.sln.DotSettings.user
+obj\**
+bin\**
+*.suo
+ChuckNorrisQuotesUnitTest/obj/
