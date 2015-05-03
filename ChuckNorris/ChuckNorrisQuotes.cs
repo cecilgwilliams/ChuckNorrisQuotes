@@ -33,8 +33,7 @@ namespace ChuckNorris
             }
 
             _enumerator.Reset();
-            _enumerator.MoveNext();
-            return _enumerator.Current;
+            return GetNextQuote();
         }
     }
 }
